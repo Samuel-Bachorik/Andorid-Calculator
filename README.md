@@ -13,6 +13,5 @@ My Eval function is part of this repository.
 
 Calculator preview:
 
-<a href="https://ibb.co/VqBcWkv"><img src="https://i.ibb.co/RDHkpJC/apk-preview2.jpg" alt="apk-preview2" border="0"></a>
-
+![Calculator](https://github.com/Samuel-Bachorik/Andorid-calculator-with-created-Eval-function/blob/master/calculator_preview.PNG)<br/>
 
